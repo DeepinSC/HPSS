@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="streaming_wordcount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/streaming_wordcount_jar</output-path>
+    <root id="archive" name="streaming_wordcount.jar">
+      <element id="module-output" name="streaming_wordcount" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.8-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
